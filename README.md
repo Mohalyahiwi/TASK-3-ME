@@ -8,4 +8,5 @@ find the (x,y,z) position of the arm
 Inverse Kinematics as the name implies is the opposite of forward Kinematics in which we calculate the joint angle based on the end factor and where we want the arm to go, also it's more complex than the
 Forward Kinematics.
 
-Forwardv and Inverse Kinematics are used in many fields such as robotics, graphics, and game design 
+Forward and Inverse Kinematics are used in many fields such as robotics, graphics, and game design 
+the file named(ME Forward Kinematics Inverse Kinematics) contains the givine task solution 
